@@ -1,0 +1,168 @@
+*{
+    margin: 0px auto;
+    padding: 0px;
+    outline: 0px dotted red;
+   }
+
+.bluewrapper{
+    width: 875px;
+    background-color: #062134;
+    padding: 0px;
+}
+.top{
+    display: flex;
+    align-items: baseline;
+    height: 75px;
+}
+.namejamesconsulting{
+    margin-top: 20px;
+    width: 35%;
+    font-family: Verdana Pro Condensed, Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    display: inline-block;
+    margin-left: 10px;
+}
+.james{
+    color: white;
+}
+.consulting{
+    color: #1B99E8;
+}
+.topnav{
+    width: 500px;
+    height: 5px;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    display: inline-block;
+    display: flex;
+ }
+
+.ul-nav{
+  list-style-type: none;
+  justify-content: space-evenly;
+}
+
+.li-nav {
+  display: inline;
+  margin: 10px;
+  padding: 10px;
+}
+
+.navtoptext{
+    color: white;
+    text-decoration: none;
+    size: 10px;
+    font-size: 15px;
+}
+
+.whitewrapper{
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+}
+
+.logopic{
+    width: 825px;
+}
+
+.contentcontainer{
+    margin: 10px;
+    padding: 5px;
+}
+
+p{
+    margin: 5px;
+    padding: 5px;
+}
+
+.container3box{
+    width: 260px;
+    height: 210px;
+    background-color: #1468A8;
+    font-family: Verdana-Pro-Condensed, Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 5px;
+    color: white;
+}
+.divheader{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    height: 15px;
+    display: block;
+    padding: 10px;
+}
+.toolimg{
+    height:25px;
+}
+.containertext{
+    font-size: 12px;
+    margin: 10px;
+}
+.buttondiv{
+    padding: 5px;
+    height: 15px;
+}
+.moreinfobutton {
+    background-image: linear-gradient(#46ACEC, #1991dc,#1782ca);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: line-block;
+    font-size: 12px;
+    border-radius: 5px
+  }
+
+
+.white3container{
+    width: 260px;
+
+    font-family: Verdana-Pro-Condensed, Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 5px;
+    color: black;
+
+}
+.containerwhitetext{
+    font-size: 12px;
+    padding: 10px;
+}
+.footer{
+    background-color: #DAEDFF;
+    border: 2px solid #062134;
+}
+
+.footernav{
+    width: 600px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-decoration: none;
+    
+}
+.navbottomtext{
+    color: #80A8C7;
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.alearnmore{
+    color:#5082A6;
+}
+
+.ahomedark{
+    color:#DAEDFF
+}
+
+.ahomelight{
+    color: #32678E
+}

@@ -1,0 +1,104 @@
+        <div class="top">
+            <div class="namejamesconsulting">
+                <span class="james">JAMES</span>
+                <span class="consulting"> CONSULTING</span>
+            </div>
+            <div class="topnav">
+                <ul class: "ul-nav">
+                    <li class="li-nav">
+                        <a href="#" class="navtoptext">Home</a>
+                    </li>
+                    <li class="li-nav">
+                        <a href="#" class="navtoptext">About</a>
+                    </li>
+                    <li class="li-nav">
+                        <a href="#" class="navtoptext">Services</a>
+                    </li>
+                    <li class="li-nav">
+                        <a href="#" class="navtoptext">Projects</a>
+                    </li>
+                    <li class="li-nav">
+                        <a href="#" class="navtoptext">Clients</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="whitewrapper">
+            <div class="picture">
+                <img src="consulting/main_img.png" alt="servicelogo" class="logopic">
+            </div>
+
+        <div class="contentcontainer">
+
+            <div class="container3box">
+                <div class="divheader">
+                    <SPAN>
+                        <img src="" alt="">
+                    </SPAN>
+                    <SPAN> SERVICES</SPAN>
+                </div>
+                <div class="containertext">
+                    La Mode is an Eccomerce website for disigned to market various clothing products. Users are able to view the available products.
+                    Users are able to view the available garments, slect their desired quantity and compile a shopping cart
+                    for making a final purchase.
+                    <div class="buttondiv"><button class="moreinfobutton">More info</button></div>
+                </div>
+            </div>
+
+            <div class="container3box">
+                <div class="divheader">PROJECTS</div>
+                <div class="containertext">
+                    We worked with Pinktrip, a local fashion retailer, in 2010. They had a dream to take their business to the next level and
+                    draw in a national base of customers, while retaining the lcoal feel of theirr store online. We redsigned...
+                </div>
+                <div>More info</div>
+            </div>
+            <div class="container3box">
+                <div class="divheader">CLIENTS</div>
+                <div class="containertext">
+                    We have worked with a variety of business varying form non-profit to corporate to retail. Although our clients have reanged
+                    in size to large corporations, our niche is helping small and medium sized cleints discover...
+                </div>
+            </div>
+
+            <div class="white3container">
+                    <div class="divheader">THE WORLD CAN BE YOURS!</div>
+                    <div class="containertext">
+                        <img src="consulting/building.png" alt=building width="225">
+                    </div>
+                </div>
+    
+                <div class="white3container">
+                    <div class="divheader"></div>
+                    <div class="containertext">
+                        ur goal at James Consulting is to provide effective soultions designed to boost your business, be it small or a large organization.
+                        Our consultants design solutions tailored specifically to the needs of our business in order to ensure
+                        you achieve your dreams of sucess. Check out our custom solutions and services. Learn more
+    
+                    </div>
+                </div>
+                <div class="white3container">
+                    <div class="divheader">TESTIMONIAL</div>
+                    <div class="containertext">
+                        I'm a testimonial. Click me to edit and add ext that says something nice about you and your services. Samantha Jones, Project
+                        Manager
+                    </div>
+                </div>
+            </div>
+    
+                <div class="footer">
+                    <div class="footernav">
+                        <span>Home</span>
+                        <span>About </span>
+                        <span>Services</span>
+                        <span>Clients</span>
+                    </div>
+                </div>
+
+
+        </div>
+
+    </div>
+
+    </div>
